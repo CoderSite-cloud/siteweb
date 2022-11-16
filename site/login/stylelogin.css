@@ -1,0 +1,24 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: #30336b;
+    font-family: sans-serif;
+}
+form{
+    width: 500px;
+    padding: 40px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    background-color: #34495e;
+    transform:translate(-50%,-50%);
+    text-align:center;
+}
+form input[type="text"], form input[type="password"], form input[type="submit"], form input[type="reset"]
+
+    background: none;
+    border-top: 1px solid #09017E;
+    border-right: 1px solid #09017E;
+    border-bottom: 1px solid #09017E;
+    border-left: 1px solid #30336b;
+}
